@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Racing Fried Chicken.Plugins", "Racing Fried Chicken.Plugins.csproj", "{1F2244EA-4663-29EF-1EB7-19ADBE5BACE7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Racing Fried Chicken", "Racing Fried Chicken.csproj", "{E33DEF16-0DEC-FC52-B217-69351940885B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Racing Fried Chicken.Editor.Plugins", "Racing Fried Chicken.Editor.Plugins.csproj", "{1DC9A05A-17C9-C74F-6FEA-726A2B0C773D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1F2244EA-4663-29EF-1EB7-19ADBE5BACE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F2244EA-4663-29EF-1EB7-19ADBE5BACE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F2244EA-4663-29EF-1EB7-19ADBE5BACE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F2244EA-4663-29EF-1EB7-19ADBE5BACE7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E33DEF16-0DEC-FC52-B217-69351940885B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E33DEF16-0DEC-FC52-B217-69351940885B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E33DEF16-0DEC-FC52-B217-69351940885B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E33DEF16-0DEC-FC52-B217-69351940885B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1DC9A05A-17C9-C74F-6FEA-726A2B0C773D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DC9A05A-17C9-C74F-6FEA-726A2B0C773D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DC9A05A-17C9-C74F-6FEA-726A2B0C773D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DC9A05A-17C9-C74F-6FEA-726A2B0C773D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
