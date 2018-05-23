@@ -1,0 +1,29 @@
+if u dont know where to put stuff, check the folder 'preview' in the 2d assets (aka this folder)
+
+
+main menu : 
+- start
+- options
+- exit
+
+selection :
+- arrow to select cars
+- stats stuff
+      * stats + overlay box for it 
+            + handling
+            + speed
+            + acceleration 
+            + brakes
+- select
+
+in game : 
+- speed stuff (speedometer)
+- position / numbers (1/9, etc)
+- pause button + overlay
+      * continue
+      * restart
+      * back to menu
+      * exit 
+
+
+Dont forget samples for placements
