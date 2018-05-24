@@ -16,11 +16,18 @@ selection (done) :
             + brakes
 - select
 
-in game (not done yet) : 
-- speed stuff (speedometer)
-- position / numbers (1/9, etc)
-- pause button + overlay
-      * continue
-      * restart
-      * back to menu
-      * exit 
+in game (done) : 
+- normal : 
+      * speed 
+      * position / numbers (1/9, etc)
+      * lap
+      * time
+      * pause button
+- game paused : 
+      * overlay box (gives a tint of color to the whole screen)
+      * overlay box 2 (for the contents of the 'pause menu')
+      * pause menu : 
+             + game is paused
+             + continue button
+             + restart button
+             + back to menu button
