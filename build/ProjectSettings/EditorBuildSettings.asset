@@ -4,4 +4,26 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scene/MainMenu.unity
+    guid: 81e29d0c8a7e08e4b81e113cfc051138
+  - enabled: 1
+    path: Assets/Scene/TrackSelect.unity
+    guid: ec5f275d3f8aaff46a78835a3a5645ce
+  - enabled: 1
+    path: Assets/Scene/RoundedCircuit.unity
+    guid: 7b565ff127421b04ba9067150bb26599
+  - enabled: 1
+    path: Assets/Scene/RockyDirtZone.unity
+    guid: 94cbfc04689fc3e49b3ab6104a850dda
+  - enabled: 1
+    path: Assets/Scene/MorningHisana.unity
+    guid: 14c9ad3bd15e73e4aae9115fbfc8101d
+  - enabled: 1
+    path: Assets/Scene/GloryChickenZone.unity
+    guid: 193ac31cab5054d44953a050bf794232
+  - enabled: 1
+    path: Assets/Scene/CreepyDBesto.unity
+    guid: 0a6a5532b9b85984ebbda13a532c5d40
+  m_configObjects: {}
