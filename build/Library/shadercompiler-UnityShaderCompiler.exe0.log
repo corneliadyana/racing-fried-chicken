@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Base path: D:/Program File (D)/Unity/Editor/Data
 Cmd: initializeCompiler
 Cmd: compileSnippet
@@ -370,3 +371,47 @@ Cmd: compileSnippet
 Cmd: compileSnippet
   api=4 type=1 insize=18589 outsize=5606 kw=UNITY_PASS_FORWARDBASE DIRECTIONAL DIRLIGHTMAP_COMBINED DYNAMICLIGHTMAP_ON pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
 Cmd: initializeCompiler
+=======
+Base path: C:/Program Files/Unity 2017.1.0f3/Editor/Data
+Cmd: initializeCompiler
+Cmd: preprocess
+  insize=2221 outsize=1077 ok=1
+Cmd: preprocess
+  insize=3433 outsize=2546 ok=1
+Cmd: preprocess
+  insize=9954 outsize=3828 ok=1
+Cmd: preprocess
+  insize=4252 outsize=3549 ok=1
+Cmd: preprocess
+  insize=7008 outsize=2361 ok=1
+Cmd: preprocess
+  insize=7632 outsize=2628 ok=1
+Cmd: preprocess
+  insize=7016 outsize=2372 ok=1
+Cmd: preprocess
+  insize=3384 outsize=1607 ok=1
+Cmd: preprocess
+  insize=9965 outsize=3838 ok=1
+Cmd: preprocess
+  insize=3464 outsize=1244 ok=1
+Cmd: preprocess
+  insize=2221 outsize=1077 ok=1
+Cmd: preprocess
+  insize=3433 outsize=2546 ok=1
+Cmd: preprocess
+  insize=9954 outsize=3828 ok=1
+Cmd: preprocess
+  insize=4252 outsize=3549 ok=1
+Cmd: preprocess
+  insize=7008 outsize=2361 ok=1
+Cmd: preprocess
+  insize=7632 outsize=2628 ok=1
+Cmd: preprocess
+  insize=7016 outsize=2372 ok=1
+Cmd: preprocess
+  insize=3384 outsize=1607 ok=1
+Cmd: preprocess
+  insize=9965 outsize=3838 ok=1
+Cmd: preprocess
+  insize=3464 outsize=1244 ok=1
+>>>>>>> 2a8748826835a0a4494b26693306b9758d3ad6cd

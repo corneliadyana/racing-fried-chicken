@@ -1,4 +1,8 @@
 sceneSetups:
+<<<<<<< HEAD
 - path: Assets/Scene/RockyDirtZone.unity
+=======
+- path: Assets/Scene/CarSelect.unity
+>>>>>>> 2a8748826835a0a4494b26693306b9758d3ad6cd
   isLoaded: 1
   isActive: 1
