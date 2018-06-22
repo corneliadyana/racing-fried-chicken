@@ -2,53 +2,35 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class GlobalCar : MonoBehaviour {
+public class GlobalCar : MonoBehaviour
+{
 
-    /*
-    public static int CarType; //1=Red, 2=Blue
+
+    public static int CarType; 
     public GameObject TrackWindow;
 
-    public void RedCar()
+    public void Hisana()
     {
         CarType = 1;
         TrackWindow.SetActive(true);
     }
 
-    public void BlueCar()
+    public void DBesto()
     {
         CarType = 2;
         TrackWindow.SetActive(true);
     }
 
-}
-
-
-//car choice
-
-using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
-
-public class CarChoice : MonoBehaviour
-{
-
-    //1=Red, 2=Blue
-    public GameObject RedBody;
-    public GameObject BlueBody;
-    public int CarImport;
-
-    void Start()
+    public void KFC()
     {
-        CarImport = GlobalCar.CarType;
-        if (CarImport == 1)
-        {
-            RedBody.SetActive(true);
-        }
-
-        if (CarImport == 2)
-        {
-            BlueBody.SetActive(true);
-        }
+        CarType = 3;
+        TrackWindow.SetActive(true);
     }
-*/
+
+    public void Rocky()
+    {
+        CarType = 4;
+        TrackWindow.SetActive(true);
+    }
+
 }
