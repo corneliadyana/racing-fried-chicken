@@ -6,7 +6,11 @@ using UnityEngine.SceneManagement;
 public class ButtonOption : MonoBehaviour {
 
     
+<<<<<<< HEAD
     /*public void PlayGame()
+=======
+    public void PlayGame()
+>>>>>>> 1e9e935fa4093bda12d7918134fef7c368694bfe
     {
         SceneManager.LoadScene(2);
     }
@@ -48,9 +52,12 @@ public class ButtonOption : MonoBehaviour {
         SceneManager.LoadScene(6);
     }
 
+<<<<<<< HEAD
     public void Credits()
     {
         SceneManager.LoadScene(7);
     }
 
+=======
+>>>>>>> 1e9e935fa4093bda12d7918134fef7c368694bfe
 }

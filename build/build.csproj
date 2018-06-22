@@ -303,23 +303,38 @@
       <Project>{C294F4F0-7851-A841-AAED-5B03D156EAAA}</Project>
       <Name>build.Plugins</Name>
     </ProjectReference>
+<<<<<<< HEAD
     <ProjectReference Include="UnityEditor.StandardEvents.csproj">
       <Project>{6800202F-4402-D405-F8CB-03DC7BD78B92}</Project>
       <Name>UnityEditor.StandardEvents</Name>
     </ProjectReference>
+=======
+>>>>>>> 1e9e935fa4093bda12d7918134fef7c368694bfe
     <ProjectReference Include="Unity.PackageManagerUI.Editor.csproj">
       <Project>{6877705C-FBD9-0C4F-5AFB-6FB431E5D39D}</Project>
       <Name>Unity.PackageManagerUI.Editor</Name>
     </ProjectReference>
+<<<<<<< HEAD
+=======
+    <ProjectReference Include="UnityEditor.StandardEvents.csproj">
+      <Project>{6800202F-4402-D405-F8CB-03DC7BD78B92}</Project>
+      <Name>UnityEditor.StandardEvents</Name>
+    </ProjectReference>
+>>>>>>> 1e9e935fa4093bda12d7918134fef7c368694bfe
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Script\ButtonOption.cs" />
     <Compile Include="Assets\Script\Camera.cs" />
     <Compile Include="Assets\Script\CameraChange.cs" />
+<<<<<<< HEAD
     <Compile Include="Assets\Script\CarChoice.cs" />
     <Compile Include="Assets\Script\CarControlActive.cs" />
     <Compile Include="Assets\Script\Countdown.cs" />
     <Compile Include="Assets\Script\CreditFinish.cs" />
+=======
+    <Compile Include="Assets\Script\CarControlActive.cs" />
+    <Compile Include="Assets\Script\Countdown.cs" />
+>>>>>>> 1e9e935fa4093bda12d7918134fef7c368694bfe
     <Compile Include="Assets\Script\Dreamcar01Track.cs" />
     <Compile Include="Assets\Script\FinishRotate.cs" />
     <Compile Include="Assets\Script\GlobalCar.cs" />

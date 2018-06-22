@@ -377,14 +377,24 @@
       <Project>{461C1168-D32E-1BEE-8845-5502CFBC08F5}</Project>
       <Name>build.Editor.Plugins</Name>
     </ProjectReference>
+<<<<<<< HEAD
     <ProjectReference Include="UnityEditor.StandardEvents.csproj">
       <Project>{6800202F-4402-D405-F8CB-03DC7BD78B92}</Project>
       <Name>UnityEditor.StandardEvents</Name>
     </ProjectReference>
+=======
+>>>>>>> 1e9e935fa4093bda12d7918134fef7c368694bfe
     <ProjectReference Include="Unity.PackageManagerUI.Editor.csproj">
       <Project>{6877705C-FBD9-0C4F-5AFB-6FB431E5D39D}</Project>
       <Name>Unity.PackageManagerUI.Editor</Name>
     </ProjectReference>
+<<<<<<< HEAD
+=======
+    <ProjectReference Include="UnityEditor.StandardEvents.csproj">
+      <Project>{6800202F-4402-D405-F8CB-03DC7BD78B92}</Project>
+      <Name>UnityEditor.StandardEvents</Name>
+    </ProjectReference>
+>>>>>>> 1e9e935fa4093bda12d7918134fef7c368694bfe
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\JavaScriptConverter(FreeAsset)\Editor\JStoC.cs" />
